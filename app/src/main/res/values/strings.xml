@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ya</string>
+    <string-array name="subjectName_array">
+        <item>Select Sunject</item>
+        <item>อุดฟัน</item>
+        <item>ดัดฟัน</item>
+        <item>ถอนฟัน </item>
+    </string-array>
+
+</resources>
